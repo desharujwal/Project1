@@ -1,0 +1,17 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}{{ category_name }}{% endblock %}
+
+{% block body %}
+<h2>{{ category_name }} Pages</h2>
+
+{% if results %}
+    <ul>
+        {% for entry in results %}
+            <li><a href="{% url 'entry' entry %}">{{ entry }}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No pages found in this category.</p>
+{% endif %}
+{% endblock %}
