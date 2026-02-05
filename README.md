@@ -20,7 +20,8 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
 
 3.Run the following command in the terminal:
    ```bash
-   git clone https://github.com/yourusername/wiki.git
+  python manage.py runserver
+
 
 4.Open your browser and go to:
  ```bash
