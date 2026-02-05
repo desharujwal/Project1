@@ -19,7 +19,7 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
 2. Open the project folder in VS Code.
 
  3.Run the following command in the terminal:
-bash<br>python manage.py runserver<br>
+```bash<br>python manage.py runserver<br>
 
 
 4. Open your browser and go to:
