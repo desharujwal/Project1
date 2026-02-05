@@ -20,7 +20,7 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
 
  3.Run the following command in the terminal:
  ```bash
-python manage.py runserver ```
+python manage.py runserver ```bash
 
 
 4. Open your browser and go to:
