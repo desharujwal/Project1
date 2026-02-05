@@ -24,5 +24,4 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
 
 
 4.Open your browser and go to:
- ```bash
   http://127.0.0.1:8000/
