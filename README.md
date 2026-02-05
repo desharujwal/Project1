@@ -14,15 +14,14 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wiki.git
+   git clone https://github.com/desharujwal/wiki.git
 
 2. Open the project folder in VS Code.
 
 3.Run the following command in the terminal:
    ```bash
    python manage.py runserver
-6.Open the project folder in VS Code.
-
 
 4.Open your browser and go to:
-[  http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+```cpp
+[  http://127.0.0.1:8000/]
