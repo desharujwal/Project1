@@ -22,6 +22,5 @@ This project allows users to create, edit, and view wiki-style encyclopedia entr
    ```bash
   python manage.py runserver
 
-
 4.Open your browser and go to:
   http://127.0.0.1:8000/
